@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Scanner;
 // 백준 1548
 

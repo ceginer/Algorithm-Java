@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Scanner;
 // 백준 11720
 public class 배열합_구하기 {
