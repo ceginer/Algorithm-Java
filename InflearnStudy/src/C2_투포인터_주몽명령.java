@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 
-public class C4_투포인터_주몽명령 {
+public class C2_투포인터_주몽명령 {
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         // 숫자 개수 N개

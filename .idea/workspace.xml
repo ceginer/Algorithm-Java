@@ -53,16 +53,16 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C4_투포인터_주몽명령">
-    <configuration name="C3_투포인터_연속된자연수합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C3_투포인터_연속된자연수합" />
+  <component name="RunManager" selected="Application.C2_투포인터_주몽명령">
+    <configuration name="C1_투포인터_연속된자연수합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C1_투포인터_연속된자연수합" />
       <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_투포인터_주몽명령" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C4_투포인터_주몽명령" />
+    <configuration name="C2_투포인터_주몽명령" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C2_투포인터_주몽명령" />
       <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,8 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C4_투포인터_주몽명령" />
-        <item itemvalue="Application.C3_투포인터_연속된자연수합" />
+        <item itemvalue="Application.C2_투포인터_주몽명령" />
+        <item itemvalue="Application.C1_투포인터_연속된자연수합" />
         <item itemvalue="Application.src.평균_구하기" />
         <item itemvalue="Application.평균_구하기" />
       </list>
@@ -123,23 +123,34 @@
       <workItem from="1679680123938" duration="411000" />
       <workItem from="1679758044254" duration="17000" />
       <workItem from="1679758087651" duration="6955000" />
-      <workItem from="1680338877767" duration="2643000" />
+      <workItem from="1680338877767" duration="5619000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/InflearnStudy/src/C4_투포인터_주몽명령.java</url>
+          <url>file://$PROJECT_DIR$/InflearnStudy/src/C2_투포인터_주몽명령.java</url>
           <line>21</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/InflearnStudy/src/C4_투포인터_주몽명령.java</url>
+          <url>file://$PROJECT_DIR$/InflearnStudy/src/C2_투포인터_주몽명령.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>

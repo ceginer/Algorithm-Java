@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class B2_부분_합 {
+public class B_부분_합 {
     public static void main(String[] args) throws IOException {
         // 수 N개가 주어졌을 때, i번째 수부터 j번째 수까지 합을 구하는 프로그램을 작성하시오.
         // 수를 100,000 개나 직접 읽어야 하므로 BufferdReader 사용
