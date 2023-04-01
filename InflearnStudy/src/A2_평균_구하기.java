@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // 백준 1548
 
-public class 평균_구하기 {
+public class A2_평균_구하기 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         // 필요한 건 합sum 과 최댓값max

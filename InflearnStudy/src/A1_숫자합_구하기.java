@@ -1,6 +1,6 @@
 import java.util.Scanner;
 // 백준 11720
-public class 배열합_구하기 {
+public class A1_숫자합_구하기 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         // N에 숫자 개수 입력받기
