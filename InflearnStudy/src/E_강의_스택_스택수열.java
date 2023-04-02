@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Stack;
-public class E강의_스택과큐_스택수열 {
+public class E_강의_스택_스택수열 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         // 입력할 스택의 개수 N

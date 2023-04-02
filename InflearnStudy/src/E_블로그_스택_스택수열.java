@@ -3,7 +3,7 @@ import java.io.BufferedReader;
         import java.io.InputStreamReader;
         import java.util.Stack;
 
-public class E블로그_스택과큐_스택수열 {
+public class E_블로그_스택_스택수열 {
     // static 한 이유는 for문이나 if 문 안에서도 변수 사용할 수 있도록 하기 위해서
     static int T;
     static StringBuilder sb = new StringBuilder();
