@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class M_그리디_동전개수최솟값 {
+public class M_그리디1_동전개수최솟값 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt(); // 동전 수 N

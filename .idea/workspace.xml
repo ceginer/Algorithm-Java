@@ -53,14 +53,7 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M_그리디_동전개수최솟값">
-    <configuration name="H_버블정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="H_버블정렬" />
-      <module name="InflearnStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.N_그리디2_최솟값의괄호배치">
     <configuration name="I_선택정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="I_선택정렬" />
       <module name="InflearnStudy" />
@@ -82,8 +75,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M_그리디_동전개수최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="M_그리디_동전개수최솟값" />
+    <configuration name="M_그리디1_동전개수최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="M_그리디1_동전개수최솟값" />
+      <module name="InflearnStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N_그리디2_최솟값의괄호배치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N_그리디2_최솟값의괄호배치" />
       <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.M_그리디_동전개수최솟값" />
+        <item itemvalue="Application.N_그리디2_최솟값의괄호배치" />
+        <item itemvalue="Application.M_그리디1_동전개수최솟값" />
         <item itemvalue="Application.L_이진탐색_원하는정수찾기" />
         <item itemvalue="Application.K_BFS_미로탐색하기" />
         <item itemvalue="Application.I_선택정렬" />
-        <item itemvalue="Application.H_버블정렬" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +119,7 @@
       <workItem from="1679758044254" duration="17000" />
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
-      <workItem from="1681012997950" duration="24015000" />
+      <workItem from="1681012997950" duration="25326000" />
     </task>
     <servers />
   </component>
