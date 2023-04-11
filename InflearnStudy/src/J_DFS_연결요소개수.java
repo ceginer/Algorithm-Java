@@ -53,9 +53,8 @@ public class J_DFS_연결요소개수 {
         visited[v] = true;
         // 현재 노드의 연결 노드 중 방문하지 않은 노드
         for(int i : A[v]){
-            // 계속 탐색한다면 visited[i] 가 false여야 함
-            // 그렇지 않고 빠져나올려면 visited 가 true 여야 함.
-            // 그래서 if(!visited[i]) 문이 있는 것임.
+            // 계속 탐색한다면 visited[i] 가 false여야 함, 그래서 if(!visited[i]) 문이 있는 것임.
+            // visited 가 true인 경우 아무런 조건도 제시하지 않았기에, 알아서 루프를 모두 돌고 빠져나옴
             if(!visited[i]){
                 DFS(i);
             }
