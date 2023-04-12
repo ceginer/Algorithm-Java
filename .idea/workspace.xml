@@ -53,14 +53,7 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q_유니온파인드_집합표현하기">
-    <configuration name="M_그리디1_동전개수최솟값" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="M_그리디1_동전개수최솟값" />
-      <module name="InflearnStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.R_위상정렬_줄세우기">
     <configuration name="N_그리디2_최솟값의괄호배치" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="N_그리디2_최솟값의괄호배치" />
       <module name="InflearnStudy" />
@@ -89,6 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="R_위상정렬_줄세우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="R_위상정렬_줄세우기" />
+      <module name="InflearnStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="배열합_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열합_구하기" />
       <module name="Algorithm" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.R_위상정렬_줄세우기" />
         <item itemvalue="Application.Q_유니온파인드_집합표현하기" />
         <item itemvalue="Application.P_그래프표현_이분그래프판별" />
         <item itemvalue="Application.O_소수구하기_소수구해야지" />
         <item itemvalue="Application.N_그리디2_최솟값의괄호배치" />
-        <item itemvalue="Application.M_그리디1_동전개수최솟값" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +119,7 @@
       <workItem from="1679758044254" duration="17000" />
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
-      <workItem from="1681012997950" duration="35634000" />
+      <workItem from="1681012997950" duration="39393000" />
     </task>
     <servers />
   </component>

@@ -39,7 +39,7 @@ public class P_그래프표현_이분그래프판별 {
                 A[end].add(start);
             }
             // 이제부터 시작, 사전세팅 끝
-            // 모든 노드에서 DFS 실행해야 함
+            // 모든 노드에서 DFS 실행해야 함 -> 재귀함수는 while 문으로도 표기 가능할 듯(while (isEven) 으로)
             for (int i=1; i<=V; i++){
                 if (isEven){ // 이분 그래프일 때 계속 실행
                     DFS(i);
