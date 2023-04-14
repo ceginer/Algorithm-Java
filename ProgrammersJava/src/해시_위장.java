@@ -1,6 +1,7 @@
-import java.util.*;
+import java.util.HashMap;
+import java.util.Iterator;
 
-class Solution {
+public class 해시_위장 {
     public int solution(String[][] clothes) {
         // hashmap으로 각 타입에 따른 개수 1씩 늘려주기
         // ->  map.getOrDefault(type,0)+1 사용
@@ -23,11 +24,5 @@ class Solution {
         // 아무것도 입지 않은 경우 빼주기
         return result -1;
 
-    }
-
-    public static void main(String[] args) {
-        String[][] clothes = {{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}};
-        Solution sol = new Solution();
-        System.out.println(sol.solution(clothes));
     }
 }
