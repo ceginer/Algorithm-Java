@@ -1,9 +1,9 @@
 import java.util.*;
+import java.util.*;
 
 public class 스택_큐_기능개발 {
     // 아직도 왜 안되었는지 모르겠음.... 효율성테스트 통과 X
 
-    import java.util.*;
 
     class Solution {
         public int[] solution(int[] progresses, int[] speeds) {

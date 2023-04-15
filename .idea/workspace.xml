@@ -7,7 +7,8 @@
     <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_같은숫자는싫어.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_같은숫자는싫어.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_기능개발.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +119,7 @@
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
       <workItem from="1681012997950" duration="58831000" />
-      <workItem from="1681406806058" duration="26510000" />
+      <workItem from="1681406806058" duration="30462000" />
     </task>
     <servers />
   </component>
@@ -155,24 +156,14 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test11.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="24" />
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="29" />
+          <line>14</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
