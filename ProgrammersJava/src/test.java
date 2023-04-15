@@ -1,33 +1,50 @@
 import java.util.*;
 
+import java.util.*;
+
 class Solution {
-    public int solution(String[][] clothes) {
-        // hashmap으로 각 타입에 따른 개수 1씩 늘려주기
-        // ->  map.getOrDefault(type,0)+1 사용
-        // Iterator<Integer> it = map.values().iterator(); 기억!!!
-        // Iterator 했을 때, Integer 조심, while(it.hasNext()) 사용, it.next() 사용!!!
+    public int solution(int[] priorities, int location) {
+        // int answer = 0;
+        Queue<Integer> que = new LinkedList<>();
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-        HashMap<String,Integer> map = new HashMap<>();
-        for (int i=0;i<clothes.length;i++){
-            String type = clothes[i][1];
-            map.put(type, map.getOrDefault(type,0)+1 );
+        int want = priorities[location];
+        int k = priorities.length;
+        int count =1;
+        for (int i: priorities ){
+            que.add(i);
         }
-
-        Iterator<Integer> it = map.values().iterator();
-        int result = 1;
-
-        while(it.hasNext()){
-            // iterator 는 Integer 형태이므로, int 형태로 바꿔줘야 함. -> it.next().intValue()
-            result = result * (it.next().intValue() +1);
+        // 사전 세팅 끝
+        while(!que.isEmpty()){
+            int a = que.poll();
+            int[] q = new int[que.size()];
+            for (int i=0; i<que.size();i++){
+                q[i] = que.poll();
+                que.add(q[i]);
+            }
+            for (int i=0; i<q.length;i++){
+                if(a < q[i]){
+                    que.add(a);
+                    System.out.println(que.toString());
+                    break;
+                }
+                if (i==k-1){
+                    map.put(a,count);
+                    count++;
+                    System.out.println(que.toString());
+                }
+            }
         }
-        // 아무것도 입지 않은 경우 빼주기
-        return result -1;
-
+        int answer = map.get(want).intValue();
+        return answer;
     }
 
     public static void main(String[] args) {
-        String[][] clothes = {{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}};
+        int[] priorities = {
+            2, 1, 3, 2
+        };
+        int location = 2;
         Solution sol = new Solution();
-        System.out.println(sol.solution(clothes));
+        System.out.println(sol.solution(priorities, location));
     }
 }
