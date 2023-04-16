@@ -1,8 +1,5 @@
 import java.util.*;
 
-import java.util.*;
-import java.util.*;
-
 class Solution {
 
     public int solution(int[] citations) {
@@ -23,12 +20,4 @@ class Solution {
         return answer;
     }
 
-    public static void main(String[] args) {
-        int[] citations = {
-            0,1,2,5,6,7
-        };
-        int location = 2;
-        Solution sol = new Solution();
-        System.out.println(sol.solution(citations));
-    }
 }

@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_기능개발.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/스택_큐_기능개발.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,30 +58,16 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T_동적계획법_2xN타일채우기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="T_동적계획법_2xN타일채우기" />
+  <component name="RunManager" selected="Application.test333">
+    <configuration name="O_소수구하기_소수구해야지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="O_소수구하기_소수구해야지" />
       <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="해시_전화번호목록" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="해시_전화번호목록" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="ProgrammersJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,13 +80,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test222" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test333" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test333" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.test333" />
         <item itemvalue="Application.test11" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.해시_전화번호목록" />
-        <item itemvalue="Application.T_동적계획법_2xN타일채우기" />
+        <item itemvalue="Application.test222" />
+        <item itemvalue="Application.O_소수구하기_소수구해야지" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,7 @@
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
       <workItem from="1681012997950" duration="58831000" />
-      <workItem from="1681406806058" duration="30462000" />
+      <workItem from="1681406806058" duration="48562000" />
     </task>
     <servers />
   </component>
@@ -157,13 +156,58 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
-          <line>16</line>
+          <line>13</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ProgrammersJava/src/test.java</url>
-          <line>14</line>
+          <line>11</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InflearnStudy/src/O_소수구하기_소수구해야지.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InflearnStudy/src/O_소수구하기_소수구해야지.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProgrammersJava/src/test222.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
