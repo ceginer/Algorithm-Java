@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/find_sosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/find_sosu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test333">
+  <component name="RunManager" selected="Application.test11">
     <configuration name="O_소수구하기_소수구해야지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="O_소수구하기_소수구해야지" />
       <module name="InflearnStudy" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+    <configuration name="find_sosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="find_sosu" />
       <module name="ProgrammersJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test333" />
         <item itemvalue="Application.test11" />
+        <item itemvalue="Application.find_sosu" />
+        <item itemvalue="Application.test333" />
         <item itemvalue="Application.test222" />
         <item itemvalue="Application.O_소수구하기_소수구해야지" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +118,7 @@
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
       <workItem from="1681012997950" duration="58831000" />
-      <workItem from="1681406806058" duration="48562000" />
+      <workItem from="1681406806058" duration="60851000" />
     </task>
     <servers />
   </component>

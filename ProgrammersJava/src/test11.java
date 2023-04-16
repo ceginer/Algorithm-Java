@@ -3,7 +3,8 @@ import java.util.*;
 
 public class test11 {
     public static void main(String[] args) {
-        String a = "asdfasd";
-        System.out.println(a.substring(0,0)+"123"+a.substring(1));
+        int[] A={1,2,3,4};
+        int[] B;
+        System.out.println(Arrays.toString(A));
     }
 }
