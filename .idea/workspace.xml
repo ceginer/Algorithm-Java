@@ -57,49 +57,49 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test222">
-    <configuration name="O_소수구하기_소수구해야지" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="O_소수구하기_소수구해야지" />
+  <component name="RunManager" selected="Application.완전탐색_N과M_4">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완전탐색_N과M_2_ver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_2_ver2" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완전탐색_N과M_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_3" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="완전탐색_N과M_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_4" />
+      <module name="ProgrammersJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="didi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="didi" />
       <module name="InflearnStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="find_sosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="find_sosu" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test11" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test222" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test222" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test333" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test333" />
-      <module name="ProgrammersJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test222" />
-        <item itemvalue="Application.test11" />
-        <item itemvalue="Application.find_sosu" />
-        <item itemvalue="Application.test333" />
-        <item itemvalue="Application.O_소수구하기_소수구해야지" />
+        <item itemvalue="Application.완전탐색_N과M_4" />
+        <item itemvalue="Application.완전탐색_N과M_3" />
+        <item itemvalue="Application.완전탐색_N과M_2_ver2" />
+        <item itemvalue="Application.didi" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +117,7 @@
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
       <workItem from="1681012997950" duration="58831000" />
-      <workItem from="1681406806058" duration="79428000" />
+      <workItem from="1681406806058" duration="114419000" />
     </task>
     <servers />
   </component>
