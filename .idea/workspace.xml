@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgrammersJava/src/test11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +57,17 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.완전탐색_N과M_4">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.BFSDFS_백준_숨바꼭질">
+    <configuration name="BFSDFS_백준_숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFSDFS_백준_숨바꼭질" />
       <module name="ProgrammersJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="완전탐색_N과M_2_ver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_2_ver2" />
-      <module name="ProgrammersJava" />
+    <configuration name="K_BFS_미로탐색하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="K_BFS_미로탐색하기" />
+      <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -85,20 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="didi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="didi" />
-      <module name="InflearnStudy" />
+    <configuration name="test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test11" />
+      <module name="ProgrammersJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFSDFS_백준_숨바꼭질" />
+        <item itemvalue="Application.K_BFS_미로탐색하기" />
+        <item itemvalue="Application.test11" />
         <item itemvalue="Application.완전탐색_N과M_4" />
         <item itemvalue="Application.완전탐색_N과M_3" />
-        <item itemvalue="Application.완전탐색_N과M_2_ver2" />
-        <item itemvalue="Application.didi" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +117,7 @@
       <workItem from="1679758087651" duration="6955000" />
       <workItem from="1680338877767" duration="17997000" />
       <workItem from="1681012997950" duration="58831000" />
-      <workItem from="1681406806058" duration="116610000" />
+      <workItem from="1681406806058" duration="131808000" />
     </task>
     <servers />
   </component>
