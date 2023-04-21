@@ -2,7 +2,7 @@ import java.util.Queue;
 import java.util.Scanner;
 import java.util.LinkedList;
 
-public class BFSDFS_백준_숨바꼭질 {
+public class BFS_백준_숨바꼭질 {
     static int N,M;
     static int counter[] = new int[100001]; // 방문배열 겸, count 세는 counter
     static int[] dx = {1,-1,2};
