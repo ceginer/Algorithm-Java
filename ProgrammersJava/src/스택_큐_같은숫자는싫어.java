@@ -46,4 +46,31 @@ public class 스택_큐_같은숫자는싫어 {
         }
     }
 
+    public class Solution3 {
+        public int[] solution(int []arr) {
+            List<Integer> list = new ArrayList<>();
+            Queue<Integer> que = new LinkedList<>();
+
+            que.offer(arr[0]);
+            int now=que.poll();
+            list.add(now);
+
+            for(int i=0; i<arr.length;i++){
+                if(now != arr[i]){
+                    que.offer(arr[i]);
+                    now = que.poll();
+                    list.add(now);
+                }
+            }
+
+            int [] A = new int[list.size()];
+
+            for(int i=0;i<list.size();i++){
+                A[i] = list.get(i);
+            }
+
+            return A;
+        }
+    }
+
 }

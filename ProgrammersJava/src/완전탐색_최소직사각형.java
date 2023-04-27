@@ -20,4 +20,25 @@ public class 완전탐색_최소직사각형 {
 
         }
     }
+        class Solution2 {
+        public int solution(int[][] sizes) {
+            int maxM = 0;
+            int minM =0;
+            for(int i =0; i<sizes.length;i++){
+                int a = Math.max(sizes[i][0],sizes[i][1]);
+                int b = Math.min(sizes[i][0],sizes[i][1]);
+                if(maxM < a){
+                    maxM = a;
+                }
+                if(minM < b){
+                    minM = b;
+                }
+//                System.out.println(maxM + "qwer" + minM);
+            }
+            int answer = maxM*minM;
+            return answer;
+
+
+        }
+    }
 }

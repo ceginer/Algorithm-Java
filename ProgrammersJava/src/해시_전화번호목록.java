@@ -8,9 +8,6 @@ public class 해시_전화번호목록 {
             // 정렬하면 String 이므로 "1", "12", "123" 이런식으로 계속 가능
             // contains() 혹은 startsWith() 사용가능!
 
-            // 2번째 풀이 ->> hashmap 이용
-            // Map.containsKey() 로 key값 찾기!
-            // String.substring() 할 때 소문자 s인거 주의!!!!!!!
 
             Arrays.sort(phone_book);
             for(int i =0;i<phone_book.length-1;i++){
@@ -25,6 +22,9 @@ public class 해시_전화번호목록 {
     class Solution2 {
         public boolean solution(String[] phone_book) {
 
+            // 2번째 풀이 ->> hashmap 이용
+            // Map.containsKey() 로 key값 찾기!
+            // String.substring() 할 때 소문자 s인거 주의!!!!!!!
             Map<String, Integer> myMap = new HashMap<>();
             for (String i : phone_book){
                 myMap.put(i,1);

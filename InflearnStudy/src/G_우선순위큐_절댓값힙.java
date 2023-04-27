@@ -13,8 +13,10 @@ public class G_우선순위큐_절댓값힙  {
             int second_abs = Math.abs(o2);
             if (first_abs == second_abs)
                 return o1 > o2 ? 1 : -1;// 절대값이 같은 경우 음수 우선 정렬
+            // 대체한다면 o1.compareTo(o2) 도 가능할 듯
             else
                 return first_abs - second_abs;// 절대값을 기준으로 정렬
+            //
         });
 
 
