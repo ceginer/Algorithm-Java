@@ -37,19 +37,20 @@ public class J_DFS_연결요소개수 {
         }
         // 연결 개수 count
         int count =0;
-        for(int i =0; i<n; i++){
+        for(int i =1; i<n+1; i++){
             // 방문배열에서 false, 즉 방문하지 않은 것에 대해 count++
             if(!visited[i]){
                 count ++;
                 DFS(i);
             }
         }
+        System.out.println(count);
     }
 
     private static void DFS(int v) {
-        if(visited[v]){
-            return;
-        }
+//        if(visited[v]){
+//            return;
+//        }
         visited[v] = true;
         // 현재 노드의 연결 노드 중 방문하지 않은 노드
         for(int i : A[v]){

@@ -1,9 +1,69 @@
 import java.util.*;
 
 
-public class 완전탐색_전력망을둘로나누기 {
+public class 완전탐색_전력망을둘로나누기 { // bfs로도 풀어보고, dfs로도 풀어봤음
 
-    class Solution {
+    // 큐.스택 쓸것인가 재귀 쓸것인가
+// 큐, 스택 => while 문
+// 여기선 재귀 => for문
+    class Solution1 { // dfs 방식
+
+        static ArrayList<Integer>[] list;
+        static boolean visited[];
+        static int any = 0;
+        static int count = 0;
+        public int solution(int n, int[][] wires) {
+
+            // 사전세팅
+            int answer = 100; // 최악의 경우일 때,
+
+
+            list = new ArrayList[n+1];
+            for (int i=1; i<n+1; i++){
+                list[i] = new ArrayList<Integer>();
+            }
+
+            for (int[] wire : wires){
+                int a = wire[0];
+                int b = wire[1];
+                list[a].add(b);
+                list[b].add(a);
+            }
+            // 사전세팅 끝
+            System.out.println("22");
+
+            for(int i=0; i<wires.length; i++){
+                count = 1;
+                visited = new boolean [n+1];
+                visited[wires[i][0]] = true;
+                int n1 = dfs(wires[i][0],wires[i][1],1);
+                System.out.println(count);
+                int n2 = n-n1;
+
+                answer = Math.min(answer, Math.abs(n1-n2));
+            }
+
+
+            return answer;
+        }
+        public static int dfs(int v1, int v2, int depth){
+            // System.out.println(count+"시작");
+            for(int i : list[v1]){
+                if (!visited[i] && i != v2){
+                    visited[i] = true;
+                    count++;
+                    depth = dfs(i,i,depth+1);
+                    // System.out.println("22222");
+                }
+
+            }
+            // System.out.println(count+"Rmx");
+
+            return count;
+        }
+    }
+
+    class Solution2 { // bfs 방식
         static ArrayList<Integer>[] list;
 
         public int solution(int n, int[][] wires) {
