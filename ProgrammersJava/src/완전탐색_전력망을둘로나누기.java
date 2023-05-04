@@ -6,7 +6,7 @@ public class 완전탐색_전력망을둘로나누기 { // bfs로도 풀어보�
     // 큐.스택 쓸것인가 재귀 쓸것인가
 // 큐, 스택 => while 문
 // 여기선 재귀 => for문
-    class Solution1 { // dfs 방식
+    class Solution1 { // dfs 방식, bfs 둘다 가능
 
         static ArrayList<Integer>[] list;
         static boolean visited[];
