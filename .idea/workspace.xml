@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="" />
+    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/BFS_백준_숨바꼭질.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/BFS_백준_숨바꼭질.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/백준_BFS_DFS_섬의개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/백준_BFS_DFS_섬의개수.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/백준_숨바꼭질_재귀.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/백준_숨바꼭질_재귀.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_1_ver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_1_ver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_2_ver2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_2_ver2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Son/Algorithm",
+    "last_opened_file_path": "C:/Users/Son/Algorithm/BaekJoonJava/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,10 +64,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Son\Algorithm\BaekJoonJava\src" />
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.백준_BFS_DFS_섬의개수">
+  <component name="RunManager" selected="Application.BFSDFS_백준_토마토">
     <configuration name="BFS와DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFS와DFS" />
       <module name="ProgrammersJava" />
@@ -62,41 +76,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BFSDFS_백준_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFSDFS_백준_토마토" />
+      <module name="BaekJoonJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BFS_백준_순열사이클" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BFS_백준_순열사이클" />
+      <module name="BaekJoonJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="백준_BFS_DFS_섬의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준_BFS_DFS_섬의개수" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="완전탐색_N과M_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_1" />
-      <module name="ProgrammersJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="완전탐색_N과M_1_ver2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_1_ver2" />
-      <module name="ProgrammersJava" />
+      <module name="BaekJoonJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="완전탐색_N과M_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="완전탐색_N과M_2" />
-      <module name="ProgrammersJava" />
+      <module name="BaekJoonJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BFSDFS_백준_토마토" />
+        <item itemvalue="Application.BFS_백준_순열사이클" />
         <item itemvalue="Application.백준_BFS_DFS_섬의개수" />
         <item itemvalue="Application.BFS와DFS" />
         <item itemvalue="Application.완전탐색_N과M_2" />
-        <item itemvalue="Application.완전탐색_N과M_1" />
-        <item itemvalue="Application.완전탐색_N과M_1_ver2" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +131,8 @@
       <workItem from="1681406806058" duration="194439000" />
       <workItem from="1682778556270" duration="71000" />
       <workItem from="1683034790421" duration="10398000" />
+      <workItem from="1683208824084" duration="2746000" />
+      <workItem from="1683224869063" duration="7981000" />
     </task>
     <servers />
   </component>
@@ -193,12 +209,12 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_2.java</url>
+          <url>file://$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_2.java</url>
           <line>31</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ProgrammersJava/src/완전탐색_N과M_2.java</url>
+          <url>file://$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_2.java</url>
           <line>30</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
