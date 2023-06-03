@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -39,6 +39,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2NRwYX4nVDQfiOtpTpcMvZpNXuZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -63,23 +66,18 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Son\Algorithm\BoostCamp\src" />
       <recent name="C:\Users\Son\Algorithm\BaekJoonJava\src" />
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.자연수뒤집어배열로만들기">
-    <configuration name="자연수뒤집어배열로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자연수뒤집어배열로만들기" />
-      <module name="BoostCamper" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="BFSDFS_백준_토마토" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BFSDFS_백준_토마토" />
       <module name="BaekJoonJava" />
@@ -94,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BoostCamp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="S_조합_이항계수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="S_조합_이항계수구하기" />
       <module name="InflearnStudy" />
@@ -101,20 +106,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="백준_BFS_DFS_섬의개수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준_BFS_DFS_섬의개수" />
-      <module name="BaekJoonJava" />
+    <configuration name="구현_자연수뒤집어배열만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구현_자연수뒤집어배열만들기" />
+      <module name="BoostCamper" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.BFS_백준_순열사이클" />
+      <item itemvalue="Application.BFSDFS_백준_토마토" />
+      <item itemvalue="Application.S_조합_이항계수구하기" />
+      <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.자연수뒤집어배열로만들기" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
+        <item itemvalue="Application.BFS_백준_순열사이클" />
         <item itemvalue="Application.S_조합_이항계수구하기" />
         <item itemvalue="Application.BFSDFS_백준_토마토" />
-        <item itemvalue="Application.BFS_백준_순열사이클" />
-        <item itemvalue="Application.백준_BFS_DFS_섬의개수" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +151,9 @@
       <workItem from="1683224869063" duration="8859000" />
       <workItem from="1683349624741" duration="5189000" />
       <workItem from="1683792821730" duration="356000" />
-      <workItem from="1685071547554" duration="3546000" />
+      <workItem from="1685071547554" duration="5539000" />
+      <workItem from="1685316685628" duration="4056000" />
+      <workItem from="1685802422133" duration="32000" />
     </task>
     <servers />
   </component>
