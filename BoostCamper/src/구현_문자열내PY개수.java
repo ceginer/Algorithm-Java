@@ -2,6 +2,7 @@ public class 구현_문자열내PY개수 {
 
     // 개수가 같음을 비교할 때는 count = 0으로 설정한 뒤, 계속 빼거나 더하는 식으로 하는 계산법 좋음.
     // char 은 == 'p' 식으로 하면 좋습니다.
+    // charAt 잘 사용하자!!
 
 
     class Solution {
