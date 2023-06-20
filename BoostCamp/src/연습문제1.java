@@ -1,5 +1,7 @@
 import java.util.*;
 
+// 부스트캠프 7기 모집 1번문제
+
 public class 연습문제1 {
 
     public static void main(String[] args){

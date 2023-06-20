@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="">
+    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="[add]부스트캠프 준비">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,8 +166,17 @@
       <workItem from="1686834266570" duration="2058000" />
       <workItem from="1687162911116" duration="2256000" />
       <workItem from="1687165735444" duration="1910000" />
-      <workItem from="1687185961174" duration="17000" />
+      <workItem from="1687185961174" duration="760000" />
+      <workItem from="1687272975891" duration="33000" />
     </task>
+    <task id="LOCAL-00001" summary="[add]부스트캠프 준비">
+      <created>1687186040879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687186040880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +192,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[add]부스트캠프 준비" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]부스트캠프 준비" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
