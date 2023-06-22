@@ -21,7 +21,5 @@ public class A2_평균_구하기 {
         }
         System.out.println(sum*100.0/max/N);
 
-
-
     }
 }

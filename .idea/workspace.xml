@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="[add]부스트캠프 준비">
+    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="[add]부스트캠프 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoostCamp/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BoostCamp/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,7 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.연습문제1">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="연습문제1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="연습문제1" />
       <module name="BoostCamp" />
@@ -83,9 +84,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BFS_백준_순열사이클" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BFS_백준_순열사이클" />
-      <module name="BaekJoonJava" />
+    <configuration name="A1_숫자합_구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="A1_숫자합_구하기" />
+      <module name="InflearnStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,19 +120,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.A1_숫자합_구하기" />
       <item itemvalue="Application.연습문제1" />
       <item itemvalue="Application.백준_별찍기2" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BFS_백준_순열사이클" />
       <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.연습문제1" />
-        <item itemvalue="Application.백준_별찍기2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.연습문제1" />
+        <item itemvalue="Application.A1_숫자합_구하기" />
+        <item itemvalue="Application.백준_별찍기2" />
         <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
-        <item itemvalue="Application.BFS_백준_순열사이클" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +168,8 @@
       <workItem from="1687162911116" duration="2256000" />
       <workItem from="1687165735444" duration="1910000" />
       <workItem from="1687185961174" duration="760000" />
-      <workItem from="1687272975891" duration="1322000" />
+      <workItem from="1687272975891" duration="1953000" />
+      <workItem from="1687362587672" duration="9146000" />
     </task>
     <task id="LOCAL-00001" summary="[add]부스트캠프 준비">
       <created>1687186040879</created>
@@ -176,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687186040880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[add]부스트캠프 구현">
+      <created>1687357777820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687357777820</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[add]부스트캠프 준비" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add]부스트캠프 준비" />
+    <MESSAGE value="[add]부스트캠프 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add]부스트캠프 구현" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,6 +274,11 @@
           <url>file://$PROJECT_DIR$/BaekJoonJava/src/완전탐색_N과M_2.java</url>
           <line>30</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BoostCamp/src/Main.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
