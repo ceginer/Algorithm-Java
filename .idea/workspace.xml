@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="[add]부스트캠프 구현" />
+    <list default="true" id="eb6cfa21-8fe1-4f0b-b1d5-7642940776ee" name="Changes" comment="[add]부스트캠프 구현">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +75,7 @@
       <recent name="C:\Users\Son\Algorithm\ssss\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.구현_백준미세먼지안녕">
     <configuration name="연습문제1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="연습문제1" />
       <module name="BoostCamp" />
@@ -95,9 +97,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="구현_자연수뒤집어배열만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="구현_자연수뒤집어배열만들기" />
-      <module name="BoostCamper" />
+    <configuration name="구현_백준미세먼지안녕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="구현_백준미세먼지안녕" />
+      <module name="BoostCamp" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,18 +120,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.A1_숫자합_구하기" />
+      <item itemvalue="Application.구현_백준미세먼지안녕" />
       <item itemvalue="Application.연습문제1" />
       <item itemvalue="Application.백준_별찍기2" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.구현_백준미세먼지안녕" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.연습문제1" />
         <item itemvalue="Application.A1_숫자합_구하기" />
         <item itemvalue="Application.백준_별찍기2" />
-        <item itemvalue="Application.구현_자연수뒤집어배열만들기" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +168,7 @@
       <workItem from="1687165735444" duration="1910000" />
       <workItem from="1687185961174" duration="760000" />
       <workItem from="1687272975891" duration="1953000" />
-      <workItem from="1687362587672" duration="10001000" />
+      <workItem from="1687362587672" duration="15958000" />
     </task>
     <task id="LOCAL-00001" summary="[add]부스트캠프 준비">
       <created>1687186040879</created>
