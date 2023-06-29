@@ -2,6 +2,8 @@ import java.util.*;
 
 public class BFS_게임맵최단거리 {
 
+    // BFS ,DFS 는 최대한 많이 연습!!
+
     class Solution1 { // 이게 solution2 를 고친 것, 더 깔끔하게 작성한 것으로 이것만 보면 됨.
         static boolean[][] visited;
         static int[][] minRoot;
